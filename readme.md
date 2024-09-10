@@ -64,12 +64,6 @@ Based on the introduction to the feature explained:
 
 (If possible, take into consideration our current tech stack use of React, Redux, TypeScript, Material UI, Redux Toolkit, Storybook, lodash, moment.js, SignalR, and Vite)
 
-## Assignment 3 - DiSC
-
-Share your DiSC profile.
-
-If you don't know it, do this short test: https://www.crystalknows.com/disc-personality-test
-
-## Assignment 4
+## Assignment 3
 
 What is your number one resource (e.g. book, blog, website) you keep getting back to and find valuable?
