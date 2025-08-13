@@ -77,3 +77,4 @@ your thoughts on how you approach mentoring and knowledge sharing within a team.
 ## Assignment 5 - Bonus Question
 
 - **5.1** What part of this test did you find most ambiguous or challenging? How did you approach it?
+- **5.2** In what ways did you use AI (if at all) to complete these questions? E.g. echo the prompt(s) used.
